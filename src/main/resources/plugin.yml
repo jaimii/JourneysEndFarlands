@@ -1,7 +1,6 @@
 name: JourneysEndFarlands
-version: '1.0'
+version: 1.0.0
 main: project.kompass.journeysEndFarlands.JourneysEndFarlands
 api-version: '1.21'
-authors: [ JustJaimii ]
-description:
-  Makes Illagers fight zombies. For Project: Kompass
+load: STARTUP
+description: Generates the classic Farlands at the world border.
